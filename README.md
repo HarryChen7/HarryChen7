@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, my name is Harry and I'm just about to attempt to build a website for my wife.
+Hi, my name is **Harry** and I'm just about to ~~attempt to~~ build a website for my wife.
 <!--
 **HarryChen7/HarryChen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
